@@ -1,4 +1,4 @@
-director for the gensim library test
+directory for the gensim library test
 
 ### How to install gensim
 

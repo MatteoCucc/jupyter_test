@@ -1,4 +1,4 @@
-directory for the gensim library test
+requirements for the scripts
 
 #### How to install gensim
 
@@ -10,3 +10,7 @@ how to update pip:
 
 #### How to install nltk
 *pip install -U nltk*
+
+
+#### How to install stop-words
+*pip install stop-words*

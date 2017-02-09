@@ -14,3 +14,7 @@ how to update pip:
 
 #### How to install stop-words
 *pip install stop-words*
+
+#### How to install TreeTagger
+*pip install treetaggerwrapper*
+*pip install -U treetaggerwrapper* for Update if already installed

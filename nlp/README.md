@@ -17,4 +17,4 @@ how to update pip:
 
 #### How to install TreeTagger
 *pip install treetaggerwrapper*   
-*pip install -U treetaggerwrapper* for Update if already installed
+*pip install -U treetaggerwrapper*  (for Update if already installed)

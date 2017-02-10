@@ -20,10 +20,14 @@ or
 #### How to install TreeTagger
 follow the instructions:  http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/    
 
-1. Download the tagger package for your system: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tree-tagger-linux-3.2.1.tar.gz
-2. Download the tagging scripts into the same directory: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tagger-scripts.tar.gz
-3. Download the installation script install-tagger.sh: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/install-tagger.sh
-4. Download the parameter files for the languages you want to process: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/#parfiles
+1. Download the tagger package for your system:    
+http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tree-tagger-linux-3.2.1.tar.gz
+2. Download the tagging scripts into the same directory:   
+http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tagger-scripts.tar.gz
+3. Download the installation script install-tagger.sh:    
+http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/install-tagger.sh
+4. Download the parameter files for the languages you want to process:    
+http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/#parfiles    
 (for italian: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/italian-par-linux-3.2-utf8.bin.gz)
 5. Open a terminal window and run the installation script in the directory where you have downloaded the files: *sh install-tagger.sh*
 6. Make a test, e.g. *echo 'Salutando il mondo!' | cmd/tree-tagger-italian* 

@@ -1,6 +1,6 @@
 Requirements for the nlp scripts
 
-(how to update pip: *pip install --upgrade pip*)
+(how to update pip: *pip install --upgrade pip*)    
 -- pip or pip3 depends from python version --
 
 #### How to install gensim

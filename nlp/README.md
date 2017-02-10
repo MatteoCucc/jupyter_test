@@ -5,7 +5,7 @@ requirements for the scripts
 
 #### How to install gensim
 
-open terminal and run: 
+open terminal and run:    
 *pip install gensim*   
 or   
 *pip install --upgrade gensim*

@@ -18,3 +18,6 @@ open terminal and run:
 #### How to install TreeTagger
 *pip install treetaggerwrapper*   
 *pip install -U treetaggerwrapper*  (for Update if already installed)
+
+follow the instructions:
+http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/

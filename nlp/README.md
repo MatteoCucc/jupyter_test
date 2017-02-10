@@ -1,7 +1,7 @@
-requirements for the nlp scripts
+Requirements for the nlp scripts
 
-(how to update pip:   
-*pip install --upgrade pip*)
+(how to update pip: *pip install --upgrade pip*)
+-- pip or pip3 depends from python version --
 
 #### How to install gensim
 
@@ -18,7 +18,11 @@ or
 *pip install stop-words*
 
 #### How to install TreeTagger
-Follow the instructions at http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/:   
+
+install for first from pip:   
+*pip install treetaggerwrapper*
+
+then follow the instructions at http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/:   
 
 1. Download the tagger package for your system:    
 http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tree-tagger-linux-3.2.1.tar.gz

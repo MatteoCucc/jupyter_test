@@ -33,8 +33,7 @@ http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/#parfiles
 *sh install-tagger.sh*
 6. Make a test, e.g. *echo 'Salutando il mondo!' | cmd/tree-tagger-italian* 
 
-After the stap below:
-open file .profile and set PATH so it includes user's private bin directories    
+After the step below, open file .profile and set PATH so it includes user's private bin directories:    
       
 PATH="$HOME/bin:$HOME/.local/bin:$PATH"
 PATH="$PATH:/home/ubuntu/pathto/treetagger/cmd:/home/ubuntu/pathto/treetagger/bin"

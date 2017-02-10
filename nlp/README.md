@@ -5,11 +5,13 @@ requirements for the scripts
 
 #### How to install gensim
 
-open terminal and run:   
+open terminal and run: 
+*pip install gensim*   
+or   
 *pip install --upgrade gensim*
 
 #### How to install nltk
-*pip install -U nltk*
+*pip install nltk*
 
 
 #### How to install stop-words

@@ -19,6 +19,8 @@ or
 
 #### How to install TreeTagger
 
+-- tested on ubuntu16.04 --   
+
 install for first from pip:   
 *pip install treetaggerwrapper*
 

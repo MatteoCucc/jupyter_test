@@ -21,7 +21,7 @@ or
 
 -- tested on ubuntu16.04 --   
 
-install for first from pip:   
+install first from pip:   
 *pip install treetaggerwrapper*
 
 then follow the instructions at http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/:   

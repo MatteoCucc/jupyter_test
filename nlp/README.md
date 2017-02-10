@@ -1,4 +1,4 @@
-requirements for the scripts
+requirements for the nlp scripts
 
 (how to update pip:   
 *pip install --upgrade pip*)

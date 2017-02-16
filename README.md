@@ -41,7 +41,7 @@ http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/#parfiles
 (for italian: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/italian-par-linux-3.2-utf8.bin.gz)
 5. Open a terminal window and run the installation script in the directory where you have downloaded the files:   
 *sh install-tagger.sh*
-6. Make a test, e.g. *echo 'Salutando il mondo!' | cmd/tree-tagger-italian* 
+6. Make a test, e.g. *"echo 'Salutando il mondo!' | cmd/tree-tagger-italian"* 
 
 After the step above, open file .profile and set PATH to include user's private bin directories:    
 ...    
